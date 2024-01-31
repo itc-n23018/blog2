@@ -3,7 +3,7 @@ import Logo from 'components/logo'
 const Header = () => {
   return (
     <header>
-      <Logo />
+      <Logo boxOn />
       <Nav />
     </header>
   )
